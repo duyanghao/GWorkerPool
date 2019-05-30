@@ -1,0 +1,5 @@
+print_worker:
+  noOfConsumers: 10
+  noOfProducers: 10
+  bufferOfJobs: 10
+  totalOfJobs: 100
