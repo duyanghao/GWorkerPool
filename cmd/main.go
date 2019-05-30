@@ -4,7 +4,7 @@ import (
 	"flag"
 	"sync"
 
-	"github.com/duyanghao/GWorkerPools/worker"
+	"github.com/duyanghao/GWorkerPool/worker"
 	"github.com/golang/glog"
 )
 

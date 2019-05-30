@@ -1,4 +1,4 @@
-module github.com/duyanghao/GWorkerPools
+module github.com/duyanghao/GWorkerPool
 
 go 1.12
 

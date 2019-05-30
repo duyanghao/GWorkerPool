@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/duyanghao/GWorkerPools/worker"
+	"github.com/duyanghao/GWorkerPool/worker"
 	"gopkg.in/yaml.v2"
 )
 
