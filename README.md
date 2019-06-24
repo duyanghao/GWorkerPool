@@ -37,6 +37,12 @@ Usage of ./GWorkerPool/cmd/GWorkerPool:
         comma-separated list of pattern=N settings for file-filtered logging
 ```
 
+### Image
+
+```bash
+make dockerfiles.build
+```
+
 ## Refs
 
 * [buffered-channels-worker-pools](https://golangbot.com/buffered-channels-worker-pools/)
